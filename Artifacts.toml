@@ -1,0 +1,8 @@
+[[xhyve]]
+arch = "x86_64"
+git-tree-sha1 = "067c44f6e153dfde994c372026bb6d5637da81de"
+os = "macos"
+
+    [[xhyve.download]]
+    sha256 = "93e64e98f199a60a1eb8365fbf168fc40b3bb59a9cffccb416c96439853ab385"
+    url = "https://github.com/JuliaBinaryWrappers/xhyve_jll.jl/releases/download/xhyve-v2019.10.1+0/xhyve.v2019.10.1.x86_64-apple-darwin14.tar.gz"

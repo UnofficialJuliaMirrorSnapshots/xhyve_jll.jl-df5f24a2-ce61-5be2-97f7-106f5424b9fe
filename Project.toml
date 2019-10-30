@@ -1,0 +1,11 @@
+name = "xhyve_jll"
+uuid = "df5f24a2-ce61-5be2-97f7-106f5424b9fe"
+version = "2019.10.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
